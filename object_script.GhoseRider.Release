@@ -1,0 +1,17 @@
+INPUT(
+./release\game.o
+./release\health.o
+./release\rider.o
+./release\score.o
+./release\police.o
+./release\main.o
+./release\gameover.o
+./release\button.o
+./release\qrc_res.o
+./release\moc_game.o
+./release\moc_health.o
+./release\moc_rider.o
+./release\moc_police.o
+./release\moc_gameover.o
+./release\moc_button.o
+);

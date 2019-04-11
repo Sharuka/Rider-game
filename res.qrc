@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/life0.png</file>
+        <file>images/life1.png</file>
+        <file>images/life2.png</file>
+        <file>images/life3.png</file>
+        <file>images/mybike.png</file>
+        <file>images/police.png</file>
+        <file>images/gameover.png</file>
+        <file>images/road.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/sound.mp3</file>
+    </qresource>
+</RCC>
